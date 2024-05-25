@@ -33,7 +33,6 @@ h1, h2, h3, h4, h5, h6, p{
     margin: 15px 0;
 }
 
-/********************** Utility Classes *******************/
 .flex{
     display: flex;
     justify-content: center;
@@ -67,9 +66,8 @@ h1, h2, h3, h4, h5, h6, p{
     color: var(--lightGreen)!important;
 }
 
-/**************** end of Utility Classes *******************/
 
-/********************** Header styling *********************/
+/* Header styling */
 
 .header{
     min-height: 100vh;
@@ -316,11 +314,7 @@ blockquote span{
     opacity: 1;
 }
 
-/************* end of index.html ***********/
-
-
-
-/**************** gallery.html ***************/
+/* gallery.html */
 
 /* section three */
 .section-three{
@@ -345,11 +339,7 @@ blockquote span{
     text-transform: uppercase;
 }
 
-/************** end of gallery.html ***********/
-
-
-
-/****************** blog.html ****************/
+/* blog.html */
 
 /* section four */
 .section-four{
@@ -387,11 +377,7 @@ blockquote span{
     font-weight: 300;
 }
 
-/*************** end of blog.html ***********/
-
-
-
-/*************** contact.html **************/
+/* contact.html */
 
 /* section five */
 .section-five{
@@ -447,11 +433,7 @@ blockquote span{
     padding: 0 20px;
 }
 
-/************** end of contact.html **********/
-
-
-
-/******************* Footer Styling *****************/
+/* Footer Styling */
 
 .footer{
     background: var(--dark);
@@ -511,11 +493,7 @@ blockquote span{
     font-size: 14px;
 }
 
-/******************* end of footer ****************/
-
-
-
-/***************** Media Queries *****************/
+/* Media Queries */
 
 @media screen and (min-width: 678px){
     
